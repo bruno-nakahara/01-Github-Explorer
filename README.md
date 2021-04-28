@@ -2,7 +2,7 @@
 
 Preparação do ambiente de trabalho e aprendendo a configurar Babel(compilador de JS), Webpack e SASS.
 
-Babel - Compilador de Javascript, convertendo códigos de javascript moderno para os navegadores mais antigos entenderem o código.
+Babel - Compilador de Javascript ou transpiler, convertendo códigos de javascript moderno para os navegadores mais antigos entenderem o código.
 Webpack - Transformar/agrupar os assets do front-end como HTML, CSS e imagens em em módulos/pacotes para mapeamento dos assets de forma eficaz 
 
 Conceitos do webpack: 
